@@ -1,2 +1,2 @@
 # 229351-StatDS
-Lab assignment by 630510658
+Lab assignments by 630510658
